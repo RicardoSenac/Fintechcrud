@@ -8,5 +8,13 @@ import { Component } from '@angular/core';
 })
 export class MenuComponent {
 
-}
+itensmenu = [
+  {label: 'Inicio', link:''},
+  {label: 'Clientes', link:'/clientes'},
+  {label: 'Sobre', link:'sobre'},
 
+]
+
+
+}
+ 
